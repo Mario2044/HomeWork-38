@@ -1,0 +1,13 @@
+body {
+    display: block;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+li {
+    list-style: none;
+}
