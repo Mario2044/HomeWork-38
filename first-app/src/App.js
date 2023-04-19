@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import React from 'react';
+import TodoList from './Lokalise/localise';
 
 function App() {
   return (
@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <TodoList/>
       </header>
     </div>
   );
